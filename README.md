@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### Network Security Group and Network Protocols 
+- ### Network Security Group and Network Protocols https://youtu.be/5GQMFltWD1c
 
 <h2>Environments and Technologies Used</h2>
 
