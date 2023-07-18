@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [VideoMP4: Network Security Group and Protocols](C:\Users\takes\Downloads\Network Security and Protocols - Made with Clipchamp.mp4)
+- ### Network Security Group and Network Protocols https://youtu.be/ER7Kp2S81n0
 
 <h2>Environments and Technologies Used</h2>
 
